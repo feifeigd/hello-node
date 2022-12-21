@@ -1,5 +1,5 @@
 {
-  "name": "hello-node",
+  "name": "@feifeigd/hello-node",
   "version": "1.0.0",
   "description": "hello , node",
   "main": "index.js",
