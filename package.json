@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/feifeigd/hello-node/issues"
   },
-  "homepage": "https://github.com/feifeigd/hello-node#readme"
+  "homepage": "https://github.com/feifeigd/hello-node#readme",
+  "publishConfig": {
+    "@feifeigd:registry": "https://npm.pkg.github.com"
+  }
 }
